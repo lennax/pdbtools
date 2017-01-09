@@ -4,3 +4,5 @@
 
 __all__ = ["interface.py","gen_input.py"]
 
+import interface
+
